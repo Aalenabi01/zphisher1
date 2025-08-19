@@ -86,7 +86,7 @@ $ zphisher
 
 ### Installation via ".deb" file
 
-- Download `.deb` files from the [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
+- Download `.deb` files from the [**Latest Release**](https://github.com/Aalenabi01/zphisher/releases/latest)
 - If you are using ***termux*** then download the `*_termux.deb`
 
 - Install the `.deb` file by executing
@@ -187,3 +187,4 @@ $ zphisher
 <table>
 
 <!-- // -->
+
